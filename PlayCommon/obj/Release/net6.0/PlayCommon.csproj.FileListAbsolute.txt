@@ -1,0 +1,12 @@
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\bin\Release\net6.0\PlayCommon.deps.json
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\bin\Release\net6.0\PlayCommon.dll
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\bin\Release\net6.0\PlayCommon.pdb
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\PlayCommon.csproj.AssemblyReference.cache
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\PlayCommon.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\PlayCommon.AssemblyInfoInputs.cache
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\PlayCommon.AssemblyInfo.cs
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\PlayCommon.csproj.CoreCompileInputs.cache
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\PlayCommon.dll
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\refint\PlayCommon.dll
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\PlayCommon.pdb
+C:\D\VisualStudio\Microservices\UserProject\CatalogService\CatalogService\PlayCommon\obj\Release\net6.0\ref\PlayCommon.dll
